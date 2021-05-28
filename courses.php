@@ -32,13 +32,13 @@ include('header.php');
                                     </div>
                                     <div class="content-part">
                                         <a class="categorie" href="#">PHOTOSHOP</a>
-                                        <h4 class="title"><a href="">From Zero to Hero with Photoshop</a></h4>
+                                        <h4 class="title text-height"><a href="">From Zero to Hero with Photoshop</a></h4>
                                     </div>
                                 </div>
                                 <div class="inner-part">
                                     <div class="content-part">
                                         <a class="categorie" href="#">PHOTOSHOP</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">From Zero to Hero with Html/css</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">From Zero to Hero with Html/css</a></h4>
                                         <ul class="course-meta">
                                             <li class="course-user"><i class="fa fa-user"></i> 245</li>
                                             <li class="ratings">
@@ -63,13 +63,13 @@ include('header.php');
                                     </div>
                                     <div class="content-part">
                                         <a class="categorie" href="#">HTML/CSS</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Learning HTML/CSS for Beginners</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Learning HTML/CSS for Beginners</a></h4>
                                     </div>
                                 </div>
                                 <div class="inner-part">
                                     <div class="content-part">
                                         <a class="categorie" href="#">HTML/CSS</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Learning HTML/CSS for Beginners</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Learning HTML/CSS for Beginners</a></h4>
                                         <ul class="course-meta">
                                             <li class="course-user"><i class="fa fa-user"></i> 245</li>
                                             <li class="ratings">
@@ -94,13 +94,13 @@ include('header.php');
                                     </div>
                                     <div class="content-part">
                                         <a class="categorie" href="#">JAVASCRIPT</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of JAVASCRIPT interactivity</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of JAVASCRIPT interactivity</a></h4>
                                     </div>
                                 </div>
                                 <div class="inner-part">
                                     <div class="content-part">
                                         <a class="categorie" href="#">JAVASCRIPT</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of JAVASCRIPT interactivity</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of JAVASCRIPT interactivity</a></h4>
                                         <ul class="course-meta">
                                             <li class="course-user"><i class="fa fa-user"></i> 245</li>
                                             <li class="ratings">
@@ -125,13 +125,13 @@ include('header.php');
                                     </div>
                                     <div class="content-part">
                                         <a class="categorie" href="#">PHP/MYSQL</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Become a PHP/MYSQL Master and Make Money</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Become a PHP/MYSQL Master and Make Money</a></h4>
                                     </div>
                                 </div>
                                 <div class="inner-part">
                                     <div class="content-part">
                                         <a class="categorie" href="#">PHP/MYSQL</a>
-                                        <h4 class="title"><a href="#">Become a PHP/MYSQL Master and Make Money</a></h4>
+                                        <h4 class="title text-height"><a href="#">Become a PHP/MYSQL Master and Make Money</a></h4>
                                         <ul class="course-meta">
                                             <li class="course-user"><i class="fa fa-user"></i> 245</li>
                                             <li class="ratings">
@@ -156,13 +156,13 @@ include('header.php');
                                     </div>
                                     <div class="content-part">
                                         <a class="categorie" href="#">PHP FRAMEWORKS</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Introduction to PHP FRAMEWORKS for Beginners</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Introduction to PHP FRAMEWORKS for Beginners</a></h4>
                                     </div>
                                 </div>
                                 <div class="inner-part">
                                     <div class="content-part">
                                         <a class="categorie" href="#">PHP FRAMEWORKS</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Introduction to PHP FRAMEWORKS for Beginners</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Introduction to PHP FRAMEWORKS for Beginners</a></h4>
                                         <ul class="course-meta">
                                             <li class="course-user"><i class="fa fa-user"></i> 245</li>
                                             <li class="ratings">
@@ -187,13 +187,13 @@ include('header.php');
                                     </div>
                                     <div class="content-part">
                                         <a class="categorie" href="#">LIVE PROJECTS</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of PHP Programming</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of PHP Programming</a></h4>
                                     </div>
                                 </div>
                                 <div class="inner-part">
                                     <div class="content-part">
                                         <a class="categorie" href="#">LIVE PROJECTS</a>
-                                        <h4 class="title"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of PHP Programming</a></h4>
+                                        <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of PHP Programming</a></h4>
                                         <ul class="course-meta">
                                             <li class="course-user"><i class="fa fa-user"></i> 245</li>
                                             <li class="ratings">
