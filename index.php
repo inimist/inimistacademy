@@ -33,7 +33,7 @@ include('header.php');
                 <div id="rs-features" class="rs-features main-home">
                     <div class="container">
                        <div class="row">
-                            <div class="col-lg-4 col-md-12 md-mb-30">
+                            <div class="col-md-4 col-xs-12 md-mb-30">
                                 <div class="features-wrap">
                                     <div class="icon-part">
                                        <img src="assets/images/features/icon/3.png" alt="">
@@ -48,7 +48,7 @@ include('header.php');
                                     </div>
                                 </div>
                             </div> 
-                            <div class="col-lg-4 col-md-12 md-mb-30">
+                            <div class="col-md-4 col-xs-12 md-mb-30">
                                 <div class="features-wrap">
                                     <div class="icon-part">
                                        <img src="assets/images/features/icon/2.png" alt="">
@@ -63,7 +63,7 @@ include('header.php');
                                     </div>
                                 </div>
                             </div> 
-                            <div class="col-lg-4 col-md-12">
+                            <div class="col-md-4 col-xs-12">
                                 <div class="features-wrap">
                                     <div class="icon-part">
                                        <img src="assets/images/features/icon/1.png" alt="">

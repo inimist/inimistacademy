@@ -118,7 +118,7 @@ include('header.php');
 					<div class="row align-items-center">
 						<div class="col-lg-6 padding-0 md-pl-15 md-pr-15 md-mb-30">
 							<div class="img-part">
-								<img class="" src="assets/images/about/history.png" alt="About Image">
+								<img class="img-part-img" src="assets/images/about/history.png" alt="About Image">
 							</div>
                             <ul class="nav nav-tabs histort-part" id="myTab" role="tablist">
                                 <li class="nav-item tab-btns single-history">

@@ -64,7 +64,7 @@
                     <div class="menu-area menu-sticky">
                         <div class="container">
                             <div class="row y-middle">
-                                <div class="col-lg-2">
+                                <div class="col-lg-4">
                                     <div class="logo-cat-wrap">
                                         <div class="logo-part">
                                             <a href="index.php">

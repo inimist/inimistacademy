@@ -1793,8 +1793,8 @@ ul.listing-style.modify li:before {
   z-index: 9;
 }
 .full-width-header .rs-header .logo-part img {
-  max-height: 50px;
-}
+  max-height: 65px;
+} 
 .full-width-header .rs-header .menu-area {
   transition: all 0.3s ease;
 }
@@ -4582,7 +4582,7 @@ body .modal-backdrop {
   color: #ff5421;
 }
 .rs-breadcrumbs .breadcrumbs-text.padding {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 .breadcrumbs-overlay:after {
   content: '';
