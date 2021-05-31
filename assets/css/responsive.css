@@ -1322,6 +1322,11 @@
     .rs-features .features-wrap {
         display: block;
         padding: 20px;
+        max-width: 350px;
+        margin: 0px auto;
+    }
+    #rs-popular-courses {
+        margin-top: 70px;
     }
     .rs-features .features-wrap .icon-part img {
         margin: 0 0 20px;
