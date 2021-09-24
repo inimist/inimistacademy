@@ -33,13 +33,13 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                             <div class="footer-logo mb-30">
-                                <a href=""><img src="assets/css/lite-logo.png" alt=""></a>
+                                <a href=""><img src="assets/images/common/logo.png" alt=""></a>
                             </div>
                               <div class="textwidget pr-60 md-pr-15"><p class="white-color">Talent is universal, but opportunities are not. With access to learning resources and instruction, one can gain skills and transform their lives in meaningful ways.</p>
                               </div>
                               <ul class="footer_social">  
                                   <li> 
-                                      <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
+                                      <a href="https://www.facebook.com/Inimistacademy-105283085250042/?ref=pages_you_manage" target="_blank"><span><i class="fa fa-facebook"></i></span></a> 
                                   </li>
                                   <li> 
                                       <a href="#" target="_blank"><span><i class="fa fa-twitter"></i></span></a> 

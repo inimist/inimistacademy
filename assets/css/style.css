@@ -14515,6 +14515,11 @@ font-size: 24px;
 line-height: 1.3em;
 margin-bottom: 15px;
 }
+
+.newsletter-wrap {
+  margin-top: 70px;
+}
+
 @keyframes loaderspin {
   0% {
     transform: translate(-50%, -50%) rotate(0deg);

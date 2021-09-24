@@ -6,10 +6,10 @@ include('header.php');
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs breadcrumbs-overlay">
                 <div class="breadcrumbs-img">
-                    <img src="assets/images/courses/courses-main.jpg" alt="course grid">
+                    <img src="assets/images/courses/courses.jpg" alt="course grid">
                 </div>
-                <div class="breadcrumbs-text">
-                    <h1 class="page-title">Our Courses</h1>
+                <div class="breadcrumbs-text white-color padding">
+                <h1 class="page-title">Our Courses</h1>
                     <ul>
                         <li>
                             <a class="active" href="https://keenitsolutions.com/products/html/educavo/index.html">Home</a>
@@ -23,7 +23,7 @@ include('header.php');
             <!-- Popular Course Section Start -->
             <div class="rs-popular-courses style2 white-bg pt-94 pb-100 md-pt-64 md-pb-70">
                 <div class="container">
-                    <div class="row">
+                    <div class="row mb-80">
                         <div class="col-lg-4 col-md-6 mb-30">
                             <div class="course-wrap">
                                 <div class="front-part">
@@ -45,13 +45,15 @@ include('header.php');
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
-                                                (05)
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                (195)
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="price-btn">
-                                    <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                                    <a href="#">Contact us<i class="flaticon-next"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -71,18 +73,19 @@ include('header.php');
                                         <a class="categorie" href="#">HTML/CSS</a>
                                         <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Learning HTML/CSS for Beginners</a></h4>
                                         <ul class="course-meta">
-                                            <li class="course-user"><i class="fa fa-user"></i> 245</li>
+                                            <li class="course-user"><i class="fa fa-user"></i> 95</li>
                                             <li class="ratings">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
-                                                (05)
+                                                <i class="fa fa-star"></i>
+                                                (98)
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="price-btn">
-                                    <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                                    <a href="#">Contact us<i class="flaticon-next"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -102,18 +105,19 @@ include('header.php');
                                         <a class="categorie" href="#">JAVASCRIPT</a>
                                         <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of JAVASCRIPT interactivity</a></h4>
                                         <ul class="course-meta">
-                                            <li class="course-user"><i class="fa fa-user"></i> 245</li>
+                                            <li class="course-user"><i class="fa fa-user"></i> 189</li>
                                             <li class="ratings">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
-                                                (05)
+                                                <i class="fa fa-star"></i>
+                                                (65)
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="price-btn">
-                                    <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                                    <a href="#">Contact us<i class="flaticon-next"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -133,18 +137,20 @@ include('header.php');
                                         <a class="categorie" href="#">PHP/MYSQL</a>
                                         <h4 class="title text-height"><a href="#">Become a PHP/MYSQL Master and Make Money</a></h4>
                                         <ul class="course-meta">
-                                            <li class="course-user"><i class="fa fa-user"></i> 245</li>
+                                            <li class="course-user"><i class="fa fa-user"></i> 170</li>
                                             <li class="ratings">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
-                                                (05)
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                (167)
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="price-btn">
-                                    <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                                    <a href="#">Contact us<i class="flaticon-next"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -164,18 +170,19 @@ include('header.php');
                                         <a class="categorie" href="#">PHP FRAMEWORKS</a>
                                         <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">Introduction to PHP FRAMEWORKS for Beginners</a></h4>
                                         <ul class="course-meta">
-                                            <li class="course-user"><i class="fa fa-user"></i> 245</li>
+                                            <li class="course-user"><i class="fa fa-user"></i> 76</li>
                                             <li class="ratings">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
-                                                (05)
+                                                <i class="fa fa-star"></i>
+                                                (277)
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="price-btn">
-                                    <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                                    <a href="#">Contact us<i class="flaticon-next"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -195,23 +202,25 @@ include('header.php');
                                         <a class="categorie" href="#">LIVE PROJECTS</a>
                                         <h4 class="title text-height"><a href="https://keenitsolutions.com/products/html/educavo/course-single.html">The Art of PHP Programming</a></h4>
                                         <ul class="course-meta">
-                                            <li class="course-user"><i class="fa fa-user"></i> 245</li>
+                                            <li class="course-user"><i class="fa fa-user"></i>76</li>
                                             <li class="ratings">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
-                                                (05)
+                                                <i class="fa fa-star"></i>
+                                                <i class="fa fa-star"></i>
+                                                (160)
                                             </li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="price-btn">
-                                    <a href="#">$55.00 <i class="flaticon-next"></i></a>
+                                    <a href="#">Contact us<i class="flaticon-next"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="pagination-area orange-color text-center mt-60 md-mt-30">
+                   <!-- <div class="pagination-area orange-color text-center mt-60 md-mt-30">
                         <ul class="pagination-part">
                             <li class="active"><a href="#">1</a></li>
                             <li><a href="#">2</a></li>
@@ -219,7 +228,7 @@ include('header.php');
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <!-- Popular Course Section End -->
 <?php
 include('footer.php');
